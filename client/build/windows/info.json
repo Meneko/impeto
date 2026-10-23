@@ -1,0 +1,15 @@
+{
+	"fixed": {
+		"file_version": "0.0.1"
+	},
+	"info": {
+		"0409": {
+			"ProductVersion": "0.0.1",
+			"CompanyName": "Tiago SS",
+			"FileDescription": "Impeto",
+			"LegalCopyright": "(c) 2026, Tiago SS",
+			"ProductName": "Impeto",
+			"Comments": "This is a comment"
+		}
+	}
+}

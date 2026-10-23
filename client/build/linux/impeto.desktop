@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=impeto
+Exec=impeto
+Icon=impeto
+Categories=Development;
+Terminal=false
+Keywords=wails
+Version=1.0
+StartupNotify=false
